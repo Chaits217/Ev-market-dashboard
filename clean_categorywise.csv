@@ -1,0 +1,31 @@
+Vehicle Category,Year,EV_Percentage,EV_Vehicles,Total_Vehicles
+Four Wheeler,2018,0.03,1047,2999288
+Four Wheeler,2019,0.03,962,2822782
+Four Wheeler,2020,0.13,3207,2396428
+Four Wheeler,2021,0.42,12259,2945340
+Four Wheeler,2022,0.99,33205,3346973
+Four Wheeler,2023,1.99,40186,2020459
+Goods Vehicles,2018,0.07,658,886047
+Goods Vehicles,2019,0.01,54,799661
+Goods Vehicles,2020,0.0,15,503358
+Goods Vehicles,2021,0.19,1118,602805
+Goods Vehicles,2022,0.08,653,804409
+Goods Vehicles,2023,0.31,1512,490920
+Public Service Vehicle,2018,0.06,50,79317
+Public Service Vehicle,2019,0.63,508,81022
+Public Service Vehicle,2020,0.22,88,40328
+Public Service Vehicle,2021,7.63,1177,15434
+Public Service Vehicle,2022,4.34,1972,45448
+Public Service Vehicle,2023,2.09,985,47058
+Three Wheeler,2018,14.4,110133,764806
+Three Wheeler,2019,17.43,133489,765867
+Three Wheeler,2020,22.55,90385,400893
+Three Wheeler,2021,40.46,158129,390820
+Three Wheeler,2022,51.73,350247,677034
+Three Wheeler,2023,52.41,300114,572654
+Two Wheeler,2018,0.09,17067,19576235
+Two Wheeler,2019,0.16,30389,18644700
+Two Wheeler,2020,0.2,29113,14305129
+Two Wheeler,2021,1.12,156243,13926217
+Two Wheeler,2022,4.05,631181,15592118
+Two Wheeler,2023,5.28,489637,9276337
